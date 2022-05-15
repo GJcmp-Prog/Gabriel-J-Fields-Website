@@ -78,7 +78,7 @@
   .circle {
     background-color: black;
     ;
-    border: 8px solid black;
+    border: 8px solid blue;
     height: 300px;
     border-radius: 50%;
     -moz-border-radius: 50%;
@@ -144,7 +144,7 @@
   }
 
   .txt3 {
-      color: Blue;
+      color: White;
   }
 
 
@@ -223,12 +223,12 @@
 <table>
   <tr>
     <td>
-      <img src="Stark Dodger.png" class="circle" alt="Gabriel Profile Picture">
+      <img src="Gabriel 5.2022.png" class="circle" alt="Gabriel Profile Picture">
     </td>
     <td>
       <h1 class="h1"> GABRIEL J FIELDS </h1>
       <p2 class="p2">
-        <em>Technician by day, Coder by night.</em>
+        <em>Programmer by day, Technician by night.</em>
       </p2></br></br>
       <p2 class="p2">
       <strong>Manufacturing Technician</strong> at <p1 class="txt1"><strong>Intel</strong></p1>.
@@ -243,7 +243,7 @@
 
 <center>
   <p2 class="p2">
-    <p2 class="txt3"><strong>H</strong></p2>ello and welcome to my personal website! Please feel free to have a look around to get a better idea of who I am on a personal
+    <p2 class="txt3" style="text-indent: 25px;"><strong>H</strong></p2>ello and welcome to my personal website! Please feel free to have a look around to get a better idea of who I am on a personal
     and profressional level. <br />I hope you enjoy your visit.
   </p2>
 </center> </br>
@@ -284,7 +284,7 @@
       <td class="td1">Game and App Dev</td>
       <td class="td1"><strong>I</strong>n my personal life I have referenced different online sources like MDN Docs and W3schools </br>
          to get my feet wet
-      in Game Develeopment. I have coded my game called <a href="file:///C:/Users/GabeF/Desktop/Game%20Development%20(Atom)/HyperNerd%20Games/Geo/GEO%20[Space%20Racer].html">GEO [Space Racer]</a>.
+      in Game Develeopment. I have coded my game called <a href="file:///C:/Users/GabeF/Desktop/Programming%20Projects/GameDev%20Projects/HyperNerd%20Games/Geo/GEO%20[Space%20Racer].html">GEO [Space Racer]</a>.
     </br> The game is based on a tutorial excercise on W3schools.</td>
     </tr>
   </table>
@@ -300,7 +300,7 @@
 <hr size="3" noshade></br>
 
 <div class="footer">
-  <p><em>Copyright © 2021 | Gabriel J. Fields | All Rights Reserved.</em></p>
+  <p><em>Copyright © 2022 | Gabriel J. Fields | All Rights Reserved.</em></p>
 </div>
 
 
